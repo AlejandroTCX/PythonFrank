@@ -1,0 +1,16 @@
+CONSTANCIA DE ESTUDIOS
+
+El Instituto Ceti Colomos certifica que:
+
+Nombre del Estudiante: Luis
+Apellido Paterno: Torres
+Apellido Materno: Díaz
+Fecha de Nacimiento: 1998-11-18
+Edad: 23
+Número de Control: 18056789
+Carrera: Ingeniería en Sistemas Computacionales
+Semestre: 6
+
+Ha sido inscrito en el semestre 6 del programa de estudios de Ingeniería en Sistemas Computacionales en el Instituto Ceti Colomos.
+
+2024-05-02

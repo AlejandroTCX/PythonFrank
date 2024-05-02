@@ -1,0 +1,16 @@
+CONSTANCIA DE ESTUDIOS
+
+El Instituto [Nombre del Instituto] certifica que:
+
+Nombre del Estudiante: [Nombre]
+Apellido Paterno: [Apellido Paterno]
+Apellido Materno: [Apellido Materno]
+Fecha de Nacimiento: [Fecha de Nacimiento]
+Edad: [Edad]
+Número de Control: [Número de Control]
+Carrera: [Carrera]
+Semestre: [Semestre]
+
+Ha sido inscrito en el semestre [Semestre] del programa de estudios de [Carrera] en el Instituto [Nombre del Instituto].
+
+[Fecha de Emisión]

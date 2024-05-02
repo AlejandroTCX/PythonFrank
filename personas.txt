@@ -1,0 +1,60 @@
+Nombre: Ana
+Apellido Paterno: Ramírez
+Apellido Materno: Sánchez
+Fecha de Nacimiento: 1997-09-05
+Edad: 25
+Número de Control: 18045678
+Carrera: Ingeniería Industrial
+Semestre: 8
+
+
+Nombre: Luis
+Apellido Paterno: Torres
+Apellido Materno: Díaz
+Fecha de Nacimiento: 1998-11-18
+Edad: 23
+Número de Control: 18056789
+Carrera: Ingeniería en Sistemas Computacionales
+Semestre: 6
+
+
+
+Nombre: Laura
+Apellido Paterno: Morales
+Apellido Materno: Ortiz
+Fecha de Nacimiento: 1999-05-30
+Edad: 22
+Número de Control: 18067890
+Carrera: Ingeniería Química
+Semestre: 4
+
+Nombre: Juan
+Apellido Paterno: Pérez
+Apellido Materno: García
+Fecha de Nacimiento: 1998-03-15
+Edad: 24
+Número de Control: 18012345
+Carrera: Ingeniería Civil
+Semestre: 7
+
+
+
+Nombre: María
+Apellido Paterno: Gómez
+Apellido Materno: Rodríguez
+Fecha de Nacimiento: 1999-07-20
+Edad: 23
+Número de Control: 18023456
+Carrera: Ingeniería Eléctrica
+Semestre: 5
+
+
+
+Nombre: Carlos
+Apellido Paterno: López
+Apellido Materno: Martínez
+Fecha de Nacimiento: 2000-01-10
+Edad: 22
+Número de Control: 18034567
+Carrera: Ingeniería Mecánica
+Semestre: 3

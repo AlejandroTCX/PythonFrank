@@ -1,0 +1,16 @@
+CONSTANCIA DE ESTUDIOS
+
+El Instituto Ceti Colomos certifica que:
+
+Nombre del Estudiante: Carlos
+Apellido Paterno: López
+Apellido Materno: Martínez
+Fecha de Nacimiento: 2000-01-10
+Edad: 22
+Número de Control: 18034567
+Carrera: Ingeniería Mecánica
+Semestre: 3
+
+Ha sido inscrito en el semestre 3 del programa de estudios de Ingeniería Mecánica en el Instituto Ceti Colomos.
+
+2024-05-02

@@ -1,0 +1,16 @@
+CONSTANCIA DE ESTUDIOS
+
+El Instituto Ceti Colomos certifica que:
+
+Nombre del Estudiante: María
+Apellido Paterno: Gómez
+Apellido Materno: Rodríguez
+Fecha de Nacimiento: 1999-07-20
+Edad: 23
+Número de Control: 18023456
+Carrera: Ingeniería Eléctrica
+Semestre: 5
+
+Ha sido inscrito en el semestre 5 del programa de estudios de Ingeniería Eléctrica en el Instituto Ceti Colomos.
+
+2024-05-02

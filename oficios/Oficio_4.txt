@@ -1,0 +1,16 @@
+CONSTANCIA DE ESTUDIOS
+
+El Instituto Ceti Colomos certifica que:
+
+Nombre del Estudiante: Juan
+Apellido Paterno: Pérez
+Apellido Materno: García
+Fecha de Nacimiento: 1998-03-15
+Edad: 24
+Número de Control: 18012345
+Carrera: Ingeniería Civil
+Semestre: 7
+
+Ha sido inscrito en el semestre 7 del programa de estudios de Ingeniería Civil en el Instituto Ceti Colomos.
+
+2024-05-02
